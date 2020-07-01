@@ -1,0 +1,2 @@
+# Maze
+GitHub Pages
